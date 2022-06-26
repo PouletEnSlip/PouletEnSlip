@@ -2,7 +2,7 @@
 
 ## Languages
 <p align="left">
-  <a href="">
+  <a style="text-decoration:none" href="">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60"/>
   </a>
   <a href="">
